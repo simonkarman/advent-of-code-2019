@@ -12,3 +12,6 @@ Fuel for Modules - Written in JavaScript
 
 ## Day 2: 1202 Program Alarm
 Optcode Programing - Written in Java
+
+## Day 3: Crossed Wires
+Intersection Points - Written in Python
